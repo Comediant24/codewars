@@ -10,6 +10,6 @@
 
 | Difficulty                                                     | Kata Count |
 | -------------------------------------------------------------- | :--------: |
-| [8-ky](https://github.com/Comediant24/codewars/tree/main/8-ky) |     23     |
+| [8-ky](https://github.com/Comediant24/codewars/tree/main/8-ky) |     24     |
 | [7-ky](https://github.com/Comediant24/codewars/tree/main/7-ky) |     17     |
 | [6-ky](https://github.com/Comediant24/codewars/tree/main/6-ky) |     3      |
