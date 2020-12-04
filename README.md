@@ -12,4 +12,4 @@
 | -------------------------------------------------------------- | :--------: |
 | [8-ky](https://github.com/Comediant24/codewars/tree/main/8-ky) |     24     |
 | [7-ky](https://github.com/Comediant24/codewars/tree/main/7-ky) |     53     |
-| [6-ky](https://github.com/Comediant24/codewars/tree/main/6-ky) |     14     |
+| [6-ky](https://github.com/Comediant24/codewars/tree/main/6-ky) |     15     |
