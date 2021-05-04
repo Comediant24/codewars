@@ -12,5 +12,5 @@
 | -------------------------------------------------------------- | :--------: |
 | [8-ky](https://github.com/Comediant24/codewars/tree/main/8-ky) |     24     |
 | [7-ky](https://github.com/Comediant24/codewars/tree/main/7-ky) |     56     |
-| [6-ky](https://github.com/Comediant24/codewars/tree/main/6-ky) |     40     |
+| [6-ky](https://github.com/Comediant24/codewars/tree/main/6-ky) |     41     |
 | [5-ky](https://github.com/Comediant24/codewars/tree/main/5-ky) |     8      |
